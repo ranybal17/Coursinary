@@ -5,7 +5,7 @@ Students can learn more about the UC Merced courses and better decide which cour
 ## Website
 http://coursinary.herokuapp.com/
 ## Tools used
-<ul>django framework</ul>
-<ul>python language</ul>
-<ul>Git</ul>
+<ul>1. django framework</ul>
+<ul>2. python language</ul>
+<ul>3. Git</ul>
 
